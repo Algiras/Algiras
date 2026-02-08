@@ -21,9 +21,6 @@
 <a href="https://algiras.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://github.com/Algiras">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 <br>
 
@@ -33,23 +30,25 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### About Me
 
-&nbsp;
-
-- **Location:** Vilnius, Lithuania
-- **Company:** @Wix
+- **Software Engineer @ Wix** · Vilnius, Lithuania
 - **Languages:** English, Lithuanian, German
 - **Programming:** Rust, TypeScript, Python, Scala
-- **Focus:** AI tooling, MCP servers, RAG systems, knowledge graphs
-- **Fun fact:** Built an epic dark fantasy saga about 14th century Lithuania!
+- **Focus:** AI developer tools, MCP servers, RAG systems, knowledge graphs
 
-&nbsp;
+---
 
-<br clear="right"/>
+## Professional Journey
+
+| Year | Role | Details |
+|------|------|---------|
+| **2025 - Present** | **Software Engineer @ Wix** | AI developer tools, scalable backend services, RAG systems · Vilnius |
+| **2021** | **Financial Analysis** | Advanced & Intro to Time Value of Money — Coursera |
+| **2018** | **Functional Programming** | Functional Programming in Scala — Coursera |
+| **2017** | **Data Science** | Data Science in Python — Coursera |
+| **2014 - 2015** | **Unity Game Developer** | Interactive experiences & volunteer projects |
+| **2009 - 2013** | **Computer Science @ KTU** | Bachelor's in Informatics — Kaunas University of Technology |
 
 ---
 
@@ -188,6 +187,21 @@
 
 ---
 
+```rust
+impl Developer for Algimantas {
+    fn current_interests(&self) -> Vec<Focus> {
+        vec![
+            Focus::Rust { areas: vec!["Systems", "RAG", "MCP Servers"] },
+            Focus::AI { tools: vec!["LLMs", "Embeddings", "Knowledge Graphs"] },
+            Focus::WebDev { stack: vec!["React", "TypeScript", "Mantine"] },
+            Focus::Research { topics: vec!["Recursion Schemes", "FP"] },
+        ]
+    }
+}
+```
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
@@ -215,109 +229,7 @@
 
 </div>
 
-<details>
-<summary><b>More Metrics</b></summary>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=tokyonight" width="98%" alt="Profile Details"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=default">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight" alt="Top Languages"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=default">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=tokyonight" alt="Productive Time"/>
-</picture>
-
-</div>
-
-</details>
-
 ---
-
-## Professional Journey
-
-| Year | Role | Details |
-|------|------|---------|
-| **2025 - Present** | **Software Engineer @ Wix** | AI developer tools, scalable backend services, RAG systems · Vilnius |
-| **2021** | **Financial Analysis** | Advanced & Intro to Time Value of Money — Coursera |
-| **2018** | **Functional Programming** | Functional Programming in Scala — Coursera |
-| **2017** | **Data Science** | Data Science in Python — Coursera |
-| **2014 - 2015** | **Unity Game Developer** | Interactive experiences & volunteer projects |
-| **2009 - 2013** | **Computer Science @ KTU** | Bachelor's in Informatics — Kaunas University of Technology |
-
----
-
-## Current Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Rust+Systems+Programming+%26+Performance+Optimization+%F0%9F%A6%80;Building+MCP+Servers+%26+AI+Tool+Infrastructure+%F0%9F%A4%96;Knowledge+Graphs+%7C+Embeddings+%7C+Semantic+Search+%F0%9F%A7%A0;RAG+Systems+with+Structure-Aware+Indexing+%F0%9F%93%9A;Developer+Tooling+%26+CLI+Applications+%F0%9F%94%A7" alt="Current Focus"/>
-
-</div>
-
-```rust
-impl Developer for Algimantas {
-    fn current_interests(&self) -> Vec<Focus> {
-        vec![
-            Focus::Rust { areas: vec!["Systems", "RAG", "MCP Servers"] },
-            Focus::AI { tools: vec!["LLMs", "Embeddings", "Knowledge Graphs"] },
-            Focus::WebDev { stack: vec!["React", "TypeScript", "Mantine"] },
-            Focus::Research { topics: vec!["Recursion Schemes", "FP"] },
-        ]
-    }
-}
-```
-
----
-
-## Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MCP_Servers-31_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG_Indexing-9_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Epic_Writer-Published-0891B2?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Researcher-Active-0891B2?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-| | Project | Description | Links |
-|---|---------|-------------|-------|
-| **Wolf Saga** | Gelezinio Vilko Saga | Epic dark fantasy — 14th century Lithuania | [Read](https://algiras.github.io/wolf-saga/) · [Audio](https://www.youtube.com/watch?v=7FTLqyPXSr0) |
-| **Extremism Analysis** | Comparative Study | 200-page analysis using AI | [Research](https://github.com/Algiras/the-shadow-of-extremism) |
-| **Memory Palace** | Knowledge Retention | Method of loci technique | [Repo](https://github.com/Algiras/memory-palace) |
-| **QMD Search** | CLI Search Engine | Local-first document search | [Repo](https://github.com/Algiras/qmd) |
-
-</div>
-
-<details>
-<summary><b>Learning Roadmap</b></summary>
-
-<br>
-
-- **Advanced Rust** — Zero-cost abstractions, async runtimes, WebAssembly
-- **AI/ML** — MCP servers, RAG architectures, vector databases, LLM eval
-- **Knowledge Systems** — Graph databases (Neo4j), semantic search, document extraction
-- **Functional Programming** — Recursion schemes, category theory, effect systems
-
-</details>
-
----
-
-## Let's Connect
 
 <div align="center">
 
@@ -327,23 +239,6 @@ impl Developer for Algimantas {
 <a href="https://algiras.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas" alt="Quote"/>
-</picture>
-
-<br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br><br>
 
