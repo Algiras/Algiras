@@ -247,34 +247,14 @@
 
 ## Professional Journey
 
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0891b2','primaryTextColor':'#fff','primaryBorderColor':'#0891b2','lineColor':'#0891b2'}}}%%
-timeline
-    title Career Timeline
-    2009-2013 : Studied at KTU : Computer Science
-    2014-2015 : Unity Game Developer : Volunteer Projects
-    2018 : Functional Programming : Scala Certification
-    2021 : Financial Analysis : Time Value of Money
-    2025-Present : Software Engineer at Wix : Building AI Tools
-```
-
-</div>
-
-**Software Engineer @ Wix** · Vilnius, Lithuania — Scalable web solutions & AI-powered developer tools
-
-**KTU** · 2009-2013 — Computer Science & Engineering
-
-<details>
-<summary><b>Certifications</b></summary>
-
-- **Advanced & Introduction to Time Value of Money** — Coursera (2021)
-- **Functional Programming in Scala** — Coursera (2018)
-- **Data Science in Python** — Coursera (2017)
-- **Security & Emerging Technologies** — Pluralsight
-
-</details>
+| Year | Role | Details |
+|------|------|---------|
+| **2025 - Present** | **Software Engineer @ Wix** | AI developer tools, scalable backend services, RAG systems · Vilnius |
+| **2021** | **Financial Analysis** | Advanced & Intro to Time Value of Money — Coursera |
+| **2018** | **Functional Programming** | Functional Programming in Scala — Coursera |
+| **2017** | **Data Science** | Data Science in Python — Coursera |
+| **2014 - 2015** | **Unity Game Developer** | Interactive experiences & volunteer projects |
+| **2009 - 2013** | **Computer Science @ KTU** | Bachelor's in Informatics — Kaunas University of Technology |
 
 ---
 
