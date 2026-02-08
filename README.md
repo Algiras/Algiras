@@ -34,27 +34,20 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### About Me
 
-```typescript
-const algimantas = {
-  location: "Vilnius, Lithuania",
-  company: "@Wix",
-  languages: {
-    spoken: ["English", "Lithuanian", "German"],
-    programming: ["Rust", "TypeScript", "Python", "Scala"]
-  },
-  currentFocus: [
-    "Rust systems programming & RAG",
-    "AI/LLM tooling (MCP servers)",
-    "Knowledge graphs & semantic search",
-    "Local-first applications"
-  ],
-  funFact: "Built an epic dark fantasy saga about 14th century Lithuania!",
-};
-```
+&nbsp;
+
+- **Location:** Vilnius, Lithuania
+- **Company:** @Wix
+- **Languages:** English, Lithuanian, German
+- **Programming:** Rust, TypeScript, Python, Scala
+- **Focus:** AI tooling, MCP servers, RAG systems, knowledge graphs
+- **Fun fact:** Built an epic dark fantasy saga about 14th century Lithuania!
+
+&nbsp;
 
 <br clear="right"/>
 
@@ -205,9 +198,9 @@ const algimantas = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=tokyonight&hide_border=true&background=0D1117&ring=38BEC9&fire=38BEC9&currStreakLabel=38BEC9&sideNums=C9D1D9&currStreakNum=38BEC9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9&ring_color=38BEC9&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=334155&ring_color=0891b2&count_private=true&include_all_commits=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9&ring_color=38BEC9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=tokyonight" alt="GitHub Stats"/>
 </picture>
 
 </div>
@@ -236,9 +229,9 @@ const algimantas = {
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BEC9&text_color=C9D1D9&langs_count=8&hide=html,css">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&hide_border=true&title_color=0891b2&text_color=334155&langs_count=8&hide=html,css">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BEC9&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight" alt="Top Languages"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=tokyonight">
