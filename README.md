@@ -1,74 +1,55 @@
 <div align="center">
 
-  ![Profile Banner](profile-banner.png)
+<!-- Animated Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Algimantas%20Krasnauskas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Enthusiast&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,14&height=200&section=header&text=Algimantas%20Krasnauskas&fontSize=50&fontColor=1a1b27&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Enthusiast&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Algimantas%20Krasnauskas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Header"/>
+</picture>
 
-  # Hi there, I'm Algiras! 👋
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+AI+Tools+in+Rust+%F0%9F%A6%80;Knowledge+Graphs+%26+RAG+Systems+%F0%9F%A7%A0;MCP+Servers+%26+Developer+Tools+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Web+Apps+%F0%9F%92%BB" alt="Typing Animation" />
+</a>
 
-  ### 🚀 Passionate Software Engineer & Architect
+<br>
 
-  I'm a developer who loves building robust, scalable systems and crafting beautiful user experiences. Currently focusing on **Rust**, **AI Integration**, and **Modern web apps**.
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/asimplek/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://algiras.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Algiras">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-  ---
+<br>
 
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <a href="https://github.com/Algiras">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/algiras">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:algimantask@wix.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://algiras.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-  </div>
-
-  <div align="center">
-    <b>Location:</b> Vilnius, Lithuania &nbsp;|&nbsp;
-    <b>Company:</b> @Wix &nbsp;|&nbsp;
-    <b>Languages:</b> English, Lithuanian, German
-  </div>
-  <div align="center">
-    <b>Focus:</b> AI tooling, MCP servers, RAG systems, knowledge graphs
-  </div>
-
-  <br/>
+<img src="https://komarev.com/ghpvc/?username=Algiras&color=0891B2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
-## 💼 Professional Journey
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="professional-journey-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="professional-journey-light.png">
-    <img src="professional-journey-dark.png" alt="Professional Journey Timeline" width="100%" />
-  </picture>
-</div>
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br />
+### About Me
 
-### 🏢 Software Engineer @ [Wix](https://wix.com)
-_2025 - Present_
-> Building AI developer tools, scaling backend services, and architecting RAG systems.
+&nbsp;
 
-### 📈 Financial Analyst
-_2021_
-> Certification in Financial Analysis & Time Value of Money.
+- **Location:** Vilnius, Lithuania
+- **Company:** @Wix
+- **Languages:** English, Lithuanian, German
+- **Programming:** Rust, TypeScript, Python, Scala
+- **Focus:** AI tooling, MCP servers, RAG systems, knowledge graphs
+- **Fun fact:** Built an epic dark fantasy saga about 14th century Lithuania!
 
-### 🚀 Functional Programming & Scala
-_2018_
-> Specialized in functional programming paradigms and Scala development.
+&nbsp;
 
-### 🎮 Unity Game Developer
-_2014 - 2015_
-> Developed interactive experiences and contributed to volunteer projects.
-
-### 🎓 Computer Science @ [KTU](https://ktu.edu)
-_2009 - 2013_
-> Bachelor's degree in Informatics.
+<br clear="right"/>
 
 ---
 
@@ -152,7 +133,7 @@ _2009 - 2013_
 <td width="50%" valign="top">
 
 ### [wolf-saga](https://github.com/Algiras/wolf-saga)
-**Gelezižio Vilko Saga** — Epic dark fantasy about 14th century Lithuania.
+**Gelezinio Vilko Saga** — Epic dark fantasy about 14th century Lithuania.
 
 [Read Online](https://algiras.github.io/wolf-saga/) | [Audiobook](https://www.youtube.com/watch?v=7FTLqyPXSr0)
 
@@ -164,27 +145,145 @@ _2009 - 2013_
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<div align="center">
+
+**Languages**
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,typescript,python,javascript,scala&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,typescript,python,javascript,scala&theme=light">
+  <img src="https://skillicons.dev/icons?i=rust,typescript,python,javascript,scala&theme=dark" alt="Languages"/>
+</picture>
+
+**Frontend**
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend"/>
+</picture>
+
+**Backend & DevOps**
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,docker,git,github,postgres,linux,bash&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,docker,git,github,postgres,linux,bash&theme=light">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,postgres,linux,bash&theme=dark" alt="Backend"/>
+</picture>
+
+**AI/ML**
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML"/>
+</picture>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </div>
 
-<br/>
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=tokyonight&hide_border=true&background=0D1117&ring=38BEC9&fire=38BEC9&currStreakLabel=38BEC9&sideNums=C9D1D9&currStreakNum=38BEC9&sideLabels=C9D1D9&dates=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideNums=334155&currStreakNum=0891b2&sideLabels=334155&dates=64748b">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=tokyonight&hide_border=true&background=0D1117&ring=38BEC9&fire=38BEC9&currStreakLabel=38BEC9&sideNums=C9D1D9&currStreakNum=38BEC9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Algiras&theme=tokyonight" alt="GitHub Stats"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Algiras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BEC9&line=38BEC9&point=C9D1D9&area=true&custom_title=Contribution+Graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Algiras&theme=minimal&hide_border=true&color=0891b2&line=0891b2&point=334155&area=true&custom_title=Contribution+Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Algiras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BEC9&line=38BEC9&point=C9D1D9&area=true&custom_title=Contribution+Graph" width="98%" alt="Contribution Graph"/>
+</picture>
+
+</div>
+
+<details>
+<summary><b>More Metrics</b></summary>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Algiras&theme=tokyonight" width="98%" alt="Profile Details"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Algiras&theme=tokyonight" alt="Top Languages"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=default">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Algiras&theme=tokyonight" alt="Productive Time"/>
+</picture>
+
+</div>
+
+</details>
+
+---
+
+## Professional Journey
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0891b2','primaryTextColor':'#fff','primaryBorderColor':'#0891b2','lineColor':'#0891b2'}}}%%
+timeline
+    title Career Timeline
+    2009-2013 : Studied at KTU : Computer Science
+    2014-2015 : Unity Game Developer : Volunteer Projects
+    2018 : Functional Programming : Scala Certification
+    2021 : Financial Analysis : Time Value of Money
+    2025-Present : Software Engineer at Wix : Building AI Tools
+```
+
+</div>
+
+**Software Engineer @ Wix** · Vilnius, Lithuania — Scalable web solutions & AI-powered developer tools
+
+**KTU** · 2009-2013 — Computer Science & Engineering
+
+<details>
+<summary><b>Certifications</b></summary>
+
+- **Advanced & Introduction to Time Value of Money** — Coursera (2021)
+- **Functional Programming in Scala** — Coursera (2018)
+- **Data Science in Python** — Coursera (2017)
+- **Security & Emerging Technologies** — Pluralsight
+
+</details>
+
+---
 
 ## Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Rust+Systems+Programming+%26+Performance+Optimization+%F0%9F%A6%80;Building+MCP+Servers+%26+AI+Tool+Infrastructure+%F0%9F%A4%96;Knowledge+Graphs+%7C+Embeddings+%7C+Semantic+Search+%F0%9F%A7%A0;RAG+Systems+with+Structure-Aware+Indexing+%F0%9F%93%9A;Developer+Tooling+%26+CLI+Applications+%F0%9F%94%A7" alt="Current Focus"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Rust+Systems+Programming+%26+Performance+Optimization+%F0%9F%A6%80;Building+MCP+Servers+%26+AI+Tool+Infrastructure+%F0%9F%A4%96;Knowledge+Graphs+%7C+Embeddings+%7C+Semantic+Search+%F0%9F%A7%A0;RAG+Systems+with+Structure-Aware+Indexing+%F0%9F%93%9A;Developer+Tooling+%26+CLI+Applications+%F0%9F%94%A7" alt="Current Focus"/>
+
 </div>
 
 ```rust
@@ -205,10 +304,12 @@ impl Developer for Algimantas {
 ## Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MCP_Servers-31_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Indexing-9_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Epic_Writer-Published-0891B2?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Researcher-Active-0891B2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MCP_Servers-31_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Indexing-9_stars-0891B2?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Epic_Writer-Published-0891B2?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Researcher-Active-0891B2?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </div>
 
 <div align="center">
@@ -222,37 +323,55 @@ impl Developer for Algimantas {
 
 </div>
 
+<details>
+<summary><b>Learning Roadmap</b></summary>
+
+<br>
+
+- **Advanced Rust** — Zero-cost abstractions, async runtimes, WebAssembly
+- **AI/ML** — MCP servers, RAG architectures, vector databases, LLM eval
+- **Knowledge Systems** — Graph databases (Neo4j), semantic search, document extraction
+- **Functional Programming** — Recursion schemes, category theory, effect systems
+
+</details>
+
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Algiras Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="180" />
-</div>
-
-<br/>
+## Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=radical&hide_border=true&background=00000000" alt="Streak Stats" />
-</div>
 
-<br/>
+<a href="https://www.linkedin.com/in/asimplek/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://algiras.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<br><br>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas" alt="Quote"/>
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,14&height=100&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%" alt="Footer"/>
-  </picture>
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,14&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%" alt="Footer"/>
+</picture>
+
 </div>
