@@ -1,226 +1,354 @@
 <div align="center">
 
-# 👋 Hi, I'm Algimantas Krasnauskas
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Algimantas%20Krasnauskas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Rust%20%26%20TypeScript%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BEC9&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Software+Engineer+%7C+Rust+%26+TypeScript;Building+AI+Tools+%7C+Knowledge+Systems+%7C+Web+Apps" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BEC9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🦀+Building+AI+Tools+in+Rust;🧠+Knowledge+Graphs+%26+RAG+Systems;🚀+MCP+Servers+%26+Developer+Tools;💻+React+%7C+TypeScript+%7C+Web+Apps" alt="Typing Animation" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimplek/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BEC9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://algiras.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Algiras)
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Animation"/>
+
+<!-- Social Badges with Hover Effects -->
+<p>
+  <a href="https://www.linkedin.com/in/asimplek/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://algiras.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-38BEC9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=38BEC9" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Algiras">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- Profile Views Counter with Animation -->
+<img src="https://komarev.com/ghpvc/?username=Algiras&color=38BEC9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+
+---
+
+<!-- About Me Section with Animated Gradient -->
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👨‍💻 About Me
+
+```typescript
+const algimantas = {
+  pronouns: "he" | "him",
+  location: "📍 Vilnius, Lithuania",
+  company: "🏢 @Wix",
+  languages: {
+    spoken: ["🇬🇧 English", "🇱🇹 Lithuanian", "🇩🇪 German"],
+    programming: ["Rust", "TypeScript", "Python", "Scala"]
+  },
+  currentFocus: [
+    "🦀 Rust systems programming & RAG",
+    "🤖 AI/LLM tooling (MCP servers)",
+    "🧠 Knowledge graphs & semantic search",
+    "📚 Local-first applications"
+  ],
+  funFact: "Built an epic dark fantasy saga about 14th century Lithuania! 🐺",
+  motto: "Building tools that amplify human potential 💡"
+};
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<!-- Project Cards with Hover Effects -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [skillz](https://github.com/Algiras/skillz)
-**Self-extending MCP server**
-Build and execute custom AI tools at runtime. A framework for creating dynamic AI capabilities.
+### 🤖 [skillz](https://github.com/Algiras/skillz) ⭐ 31
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Algiras/skillz?style=social)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=skillz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
+
+**Self-extending MCP server** - Build and execute custom AI tools at runtime. Dynamic AI capabilities framework.
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 [rusty-pageindex](https://github.com/Algiras/rusty-pageindex)
-**High-performance page indexer**
-Fast and efficient document indexing system built in Rust.
+### 📄 [rusty-pageindex](https://github.com/Algiras/rusty-pageindex) ⭐ 9
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Algiras/rusty-pageindex?style=social)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=rusty-pageindex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
+
+**Structure-aware RAG indexing** - High-performance document indexing system for retrieval-augmented generation.
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png"></code>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [RKnowledge](https://github.com/Algiras/RKnowledge)
-**Knowledge graph builder**
-Extract concepts and relationships from documents, build semantic knowledge bases with LLM-powered indexing.
+### 🧠 [RKnowledge](https://github.com/Algiras/RKnowledge) ⭐ 2
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Algiras/RKnowledge?style=social)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=RKnowledge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
+
+**Knowledge graph builder** - Extract concepts and relationships from documents with LLM-powered indexing.
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 [Algiras.github.io](https://github.com/Algiras/Algiras.github.io)
-**Personal Portfolio & Tools**
-Interactive portfolio with financial calculators, document tools, and games. Built with React + TypeScript + Mantine.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=Algiras.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
 
-</td>
-</tr>
+**Portfolio & Financial Tools** - Interactive calculators, document tools, and games. React + TypeScript + Mantine.
 
-<tr>
-<td width="50%">
-
-### 📊 [embedeval](https://github.com/Algiras/embedeval)
-**LLM Evaluation Framework**
-Binary judgment framework for LLM evaluation. Emphasizes clear pass/fail over subjective scoring for reliable model testing.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Algiras/embedeval?style=social)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 [qmd](https://github.com/Algiras/qmd)
-**Local CLI search engine**
-Mini search engine for your docs, knowledge bases, and notes. Tracking SOTA approaches while keeping everything local.
+### 📊 [embedeval](https://github.com/Algiras/embedeval) ⭐ 2
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=embedeval&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
 
-</td>
-<td width="50%">
+**LLM Evaluation Framework** - Binary judgment framework emphasizing pass/fail over subjective scoring.
 
-### 📚 [the-shadow-of-extremism](https://github.com/Algiras/the-shadow-of-extremism)
-**AI Research Project**
-A 2-day AI experiment: 200-page comparative analysis of extremism across religions using Google Antigravity.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/testing/testing.png"></code>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐺 [wolf-saga](https://github.com/Algiras/wolf-saga)
-**Geležinio Vilko Saga**
-Epic dark fantasy tale about 14th century Lithuania. [Read online](https://Algiras.github.io/wolf-saga/) | [Audiobook](https://www.youtube.com/watch?v=7FTLqyPXSr0)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Algiras&repo=wolf-saga&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" width="100%"/>
 
-</td>
-<td width="50%">
+**Geležinio Vilko Saga** - Epic dark fantasy about 14th century Lithuania. [📖 Read](https://algiras.github.io/wolf-saga/) | [🎧 Audio](https://www.youtube.com/watch?v=7FTLqyPXSr0)
 
-### 🧠 [memory-palace](https://github.com/Algiras/memory-palace)
-**Memory enhancement tool**
-Build hierarchical memory palaces using the method of loci for better knowledge retention.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/writing/writing.png"></code>
 
 </td>
 </tr>
 </table>
 
----
-
-## 💻 Tech Stack
-
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&text_color=C9D1D9" alt="Top Languages" height="165">
-
 </div>
 
+---
+
+## 💻 Tech Stack & Tools
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=tokyonight&hide_border=true&background=0D1117&ring=38BEC9&fire=38BEC9&currStreakLabel=38BEC9)
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=rust,typescript,python,javascript,scala&theme=dark" alt="Languages"/>
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend"/>
+
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,postgres&theme=dark" alt="Backend"/>
+
+### AI/ML & Data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Statistics
 
-### 🏢 **Software Engineer at Wix**
-`Vilnius, Lithuania | Current`
+<div align="center">
 
-Building scalable web solutions and AI-powered tools in a fast-paced, innovative environment.
+<!-- Main Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Algiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9&ring_color=38BEC9&custom_title=Algimantas's+GitHub+Stats" alt="GitHub Stats"/>
+
+<!-- Most Used Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BEC9&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Algiras&theme=tokyonight&hide_border=true&background=0D1117&ring=38BEC9&fire=38BEC9&currStreakLabel=38BEC9&sideNums=C9D1D9&currStreakNum=38BEC9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+
+<!-- Contribution Graph -->
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Algiras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BEC9&line=38BEC9&point=C9D1D9&area=true&custom_title=Contribution+Graph" alt="Contribution Graph"/>
+
+</div>
+
+<div align="center">
+
+<!-- Trophy Stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=Algiras&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=38BEC9&icon_color=38BEC9&text_color=C9D1D9" alt="Trophies"/>
+
+</div>
 
 ---
 
-## 🎓 Education & Certifications
+## 💼 Professional Journey
 
-### 🎓 **Kauno Technologijos Universitetas (KTU)**
-`2009 - 2013`
+<div align="center">
 
-### 📜 **Certifications**
-- **Advanced & Introduction to Time Value of Money** - Coursera (2021)
-- **Functional Programming in Scala** - Coursera (2018)
-- **Data Science in Python** - Coursera (2017)
-- **Security & Emerging Technologies** - Pluralsight
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#38BEC9','primaryTextColor':'#fff','primaryBorderColor':'#38BEC9','lineColor':'#38BEC9','secondaryColor':'#0D1117','tertiaryColor':'#1a1b27'}}}%%
+timeline
+    title Career Timeline
+    2009-2013 : Studied at KTU : Computer Science
+    2014-2015 : Unity Game Developer : Volunteer Projects
+    2018 : Functional Programming : Scala Certification
+    2021 : Financial Analysis : Time Value of Money
+    2025-Present : Software Engineer at Wix : Building AI Tools
+```
+
+</div>
+
+### 🏢 Current Role
+**Software Engineer @ Wix** | Vilnius, Lithuania
+Building scalable web solutions and AI-powered developer tools
+
+### 🎓 Education
+**Kauno Technologijos Universitetas (KTU)** | 2009-2013
+Computer Science & Engineering
+
+### 📜 Certifications
+- 📊 **Advanced & Introduction to Time Value of Money** - Coursera (2021)
+- 🔧 **Functional Programming in Scala** - Coursera (2018)
+- 🐍 **Data Science in Python** - Coursera (2017)
+- 🔐 **Security & Emerging Technologies** - Pluralsight
 
 ---
 
 ## 🎯 Current Focus
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=38BEC9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=🦀+Rust+Systems+Programming+%26+Performance+Optimization;🤖+Building+MCP+Servers+%26+AI+Tool+Infrastructure;🧠+Knowledge+Graphs+%7C+Embeddings+%7C+Semantic+Search;📚+RAG+Systems+with+Structure-Aware+Indexing;🔧+Developer+Tooling+%26+CLI+Applications;🎨+React+%2B+TypeScript+%2B+Modern+Web+Development" alt="Current Focus Animation"/>
+
+</div>
+
 ```rust
-fn current_interests() -> Vec<&'static str> {
-    vec![
-        "🦀 Rust systems programming & RAG systems",
-        "🤖 AI/LLM tooling and infrastructure (MCP servers)",
-        "🧠 Knowledge graphs and semantic search",
-        "📚 Local-first applications & embeddings",
-        "🔧 Developer tooling and CLIs",
-        "🎨 Web development with React/TypeScript",
-        "📊 Financial modeling & calculators"
-    ]
+impl Developer for Algimantas {
+    fn current_interests(&self) -> Vec<Focus> {
+        vec![
+            Focus::Rust {
+                areas: vec!["Systems Programming", "RAG", "MCP Servers"]
+            },
+            Focus::AI {
+                tools: vec!["LLMs", "Embeddings", "Knowledge Graphs"]
+            },
+            Focus::WebDev {
+                stack: vec!["React", "TypeScript", "Mantine"]
+            },
+            Focus::Research {
+                topics: vec!["Recursion Schemes", "Functional Programming"]
+            },
+        ]
+    }
+
+    fn current_learning(&self) -> &str {
+        "Building the future of AI-native developer tools 🚀"
+    }
 }
 ```
 
 ---
 
-## 🌱 Learning & Exploring
+## 🌍 Community & Open Source
 
-- **Recursion Schemes** - Advanced functional programming patterns
-- **MCP (Model Context Protocol)** - Building AI-native tools and self-extending servers
-- **Knowledge Systems** - Graph databases, Neo4j, embeddings, semantic search
-- **Systems Programming** - Performance optimization in Rust
-- **RAG Systems** - Structure-aware indexing and retrieval
-- **LLM Evaluation** - Binary judgment frameworks (EmbedEval)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**👥 Community**
+703 followers
+500+ connections
+
+</td>
+<td align="center" width="33%">
+
+**⭐ Stars Earned**
+![GitHub Stars](https://img.shields.io/github/stars/Algiras?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=38BEC9)
+
+</td>
+<td align="center" width="33%">
+
+**🔧 Public Repos**
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Algiras&query=$.public_repos&style=for-the-badge&label=REPOS&labelColor=181717&color=38BEC9&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌍 About Me
+## 🌱 Currently Exploring
 
-```typescript
-const aboutMe = {
-  location: "📍 Vilnius, Lithuania",
-  languages: ["🇬🇧 English", "🇱🇹 Lithuanian", "🇩🇪 German (Elementary)"],
-  community: "703 followers | 500+ connections",
-  hobbies: ["🎮 Game Development (Unity)", "📚 Writing (Wolf Saga)", "🧠 Knowledge Systems"],
-  motto: "Building tools that amplify human potential"
-};
-```
+<details>
+<summary><b>🔍 Click to expand learning roadmap</b></summary>
+
+<br>
+
+- 🦀 **Advanced Rust**
+  - Zero-cost abstractions
+  - Async runtime optimization
+  - WebAssembly compilation
+
+- 🤖 **AI/ML Engineering**
+  - Model Context Protocol (MCP)
+  - Retrieval-Augmented Generation (RAG)
+  - Vector databases & embeddings
+  - LLM fine-tuning & evaluation
+
+- 🧠 **Knowledge Systems**
+  - Graph databases (Neo4j)
+  - Semantic search algorithms
+  - Document understanding & extraction
+
+- 📚 **Functional Programming**
+  - Recursion schemes (catamorphisms, anamorphisms)
+  - Category theory applications
+  - Effect systems
+
+</details>
+
+---
+
+## 🎨 Side Projects & Creative Work
+
+<div align="center">
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🐺 **Wolf Saga** | Epic dark fantasy about 14th century Lithuania | [Read Online](https://algiras.github.io/wolf-saga/) • [Audiobook](https://www.youtube.com/watch?v=7FTLqyPXSr0) |
+| 📚 **Extremism Analysis** | 200-page comparative study using AI | [View Research](https://github.com/Algiras/the-shadow-of-extremism) |
+| 🧠 **Memory Palace** | Knowledge retention tool using method of loci | [Try It](https://github.com/Algiras/memory-palace) |
+| 🔍 **QMD Search** | Local-first CLI search engine | [Documentation](https://github.com/Algiras/qmd) |
+
+</div>
 
 ---
 
@@ -228,18 +356,33 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimplek/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-38BEC9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://algiras.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="https://www.linkedin.com/in/asimplek/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://algiras.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-38BEC9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-</div>
+<br><br>
 
----
+<!-- Animated Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building+tools+that+amplify+human+potential&author=Algimantas+Krasnauskas" alt="Quote"/>
 
-<div align="center">
+<br>
 
-### 💡 "Building tools that amplify human potential"
+<!-- Snake Animation eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Algiras/Algiras/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Algiras&color=38BEC9&style=for-the-badge)
+<br><br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%"/>
 
 </div>
