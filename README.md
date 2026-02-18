@@ -6,11 +6,13 @@ Software engineer, AI/ML enthusiast, and open-source contributor.
 
 ### Knowledge & AI Systems
 - **[RKnowledge](https://algiras.github.io/RKnowledge/)** - Production-grade knowledge graph extraction with Neo4j
+- **[RustyPageIndex](https://github.com/Algiras/rusty-pageindex)** - Structure-aware RAG indexer using hierarchical TOC trees (no vectors needed)
 - **[Skillz](https://algiras.github.io/skillz/)** - Self-extending MCP server for dynamic AI tool creation
 - **[Memory Palace + Red Queen](https://algiras.github.io/memory-palace/)** - Durable knowledge system combining spatial memory with adversarial testing
 - **[EmbedEval](https://algiras.github.io/embedeval/)** - Binary LLM evaluation framework with error analysis
 
 ### Tools & Documentation
+- **[Engram](https://algiras.github.io/engram/)** - Conversation memory system for Claude Code — archive, extract knowledge, and search project context
 - **[Clean Docs](https://algiras.github.io/clean-docs/)** - Documentation quality validator with code snippet validation & CI/CD integration
 
 ### Creative Works
@@ -27,7 +29,7 @@ Software engineer, AI/ML enthusiast, and open-source contributor.
 
 ## 📡 AI-Readable Portfolio
 
-Looking for structured project information? See my [`.well-known/llms.txt`](https://algiras.github.io/.well-known/llms.txt) for complete LLM-friendly project descriptions.
+Looking for structured project information? See [engram's `llms.txt`](https://algiras.github.io/engram/llms.txt) for LLM-friendly project descriptions.
 
 ## 🔗 Connect
 
