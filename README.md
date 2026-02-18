@@ -29,7 +29,18 @@ Software engineer, AI/ML enthusiast, and open-source contributor.
 
 ## 📡 AI-Readable Portfolio
 
-Looking for structured project information? See [engram's `llms.txt`](https://algiras.github.io/engram/llms.txt) for LLM-friendly project descriptions.
+All projects have `llms.txt` for LLM-friendly descriptions:
+
+| Project | llms.txt |
+|---|---|
+| RKnowledge | [llms.txt](https://algiras.github.io/RKnowledge/llms.txt) |
+| Skillz | [llms.txt](https://algiras.github.io/skillz/llms.txt) |
+| Memory Palace | [llms.txt](https://algiras.github.io/memory-palace/llms.txt) |
+| EmbedEval | [llms.txt](https://algiras.github.io/embedeval/llms.txt) |
+| Engram | [llms.txt](https://algiras.github.io/engram/llms.txt) |
+| Clean Docs | [llms.txt](https://algiras.github.io/clean-docs/llms.txt) |
+| Complex Parenting | [llms.txt](https://algiras.github.io/complex-parenting/llms.txt) |
+| Wolf Saga | [llms.txt](https://algiras.github.io/wolf-saga/llms.txt) |
 
 ## 🔗 Connect
 
