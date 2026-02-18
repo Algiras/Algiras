@@ -31,7 +31,7 @@ Looking for structured project information? See my [`.well-known/llms.txt`](http
 
 ## 🔗 Connect
 
-- **LinkedIn:** [algimantas-karpavicius](https://linkedin.com/in/algimantas-karpavicius)
+- **LinkedIn:** [asimplek](https://www.linkedin.com/in/asimplek/)
 - **Portfolio:** [algiras.github.io](https://algiras.github.io/)
 - **Email:** See portfolio or GitHub profile
 
